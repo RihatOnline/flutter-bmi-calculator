@@ -19,3 +19,9 @@ class MyApp extends StatelessWidget {
 
   }
 }
+// This BMI Calculator Design By Md Rihat. Don't Copy My Code. 
+// 7 / CMT / A2
+// Name: Md Rihat. 
+// Roll: 162711
+// Season: 18-19
+
